@@ -1,0 +1,5 @@
+{
+  "name": "21點算牌器",
+  "description": "A sophisticated Blackjack simulator with dual-deck tracking, real-time Simple and Complex card counting visualization, and a configurable AI auto-player.",
+  "requestFramePermissions": []
+}
